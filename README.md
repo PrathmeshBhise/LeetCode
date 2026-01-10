@@ -1,9 +1,9 @@
 # 👨‍💻 LeetCode Journey
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
 ---
@@ -11,57 +11,54 @@
 ## 🎯 Purpose
 
 This repository documents my **LeetCode problem-solving journey**.  
-It helps me strengthen my understanding of **Data Structures & Algorithms (DSA)** and prepare for **technical interviews** through consistent practice.
+It is focused on strengthening my understanding of **Data Structures & Algorithms (DSA)** and building strong problem-solving skills for **technical interviews**.
 
 ---
 
-## ⚙️ Automation
+## ⚙️ Automation (LeetSync)
 
-All solutions are **automatically synchronized** from my LeetCode account using the **LeetSync** browser extension.
+All solutions in this repository are **automatically synchronized** from my LeetCode account using the **LeetSync** browser extension.
 
-🔗 LeetCode Profile: https://leetcode.com/u/YOUR_LEETCODE_USERNAME/
+🔗 **LeetCode Profile:** https://leetcode.com/u/YOUR_LEETCODE_USERNAME/
+
+> LeetSync handles solution syncing only.  
+> Repository-level files like `README.md` are managed manually.
 
 ---
 
 ## 📂 Repository Structure
 
-- Each folder represents one LeetCode problem
-- Naming format:  
+- Each folder represents a single LeetCode problem
+- Folder naming format:  
   **`[Problem Number] - [Problem Title]`**
 - Inside each folder:
-  - Solution files by language
+  - Accepted solution code (language-wise)
 
-> Note: GitHub sorts folders lexicographically  
-> (e.g., `10` appears before `2`)
+> ⚠️ GitHub sorts folders lexicographically  
+> (e.g., `10` may appear before `2`)
 
 ---
 
 ## 🛠 Tech Stack
 
 - **Primary Language:** Java  
+- **Platform:** LeetCode  
 - **Automation Tool:** LeetSync  
-- **Platform:** LeetCode
+- **Version Control:** Git & GitHub  
 
 ---
 
-## 📊 Problem Statistics
 
-| Difficulty | Solved |
-|-----------|--------|
-| 🟢 Easy   | 0 |
-| 🟡 Medium | 0 |
-| 🔴 Hard   | 0 |
-| **Total** | **0** |
 
----
+## 📌 Notes
 
-## 📈 Live LeetCode Stats
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Recursive&ext=activity)
+- This repository is **auto-generated and auto-updated** for solutions
+- Code structure follows LeetSync defaults
+- Solutions are intended for **learning, revision, and interview preparation**
 
 ---
 
 ## ⭐ Acknowledgements
 
-- [LeetCode](https://leetcode.com/)
-- LeetSync browser extension
+- [LeetCode](https://leetcode.com/) – problem platform  
+- **LeetSync** – seamless GitHub synchronization
