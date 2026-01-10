@@ -31,7 +31,7 @@ All solutions are **automatically synchronized** from my LeetCode account using 
 - Inside each folder:
   - Solution files by language
 
-> ⚠️ Note: GitHub sorts folders lexicographically  
+> Note: GitHub sorts folders lexicographically  
 > (e.g., `10` appears before `2`)
 
 ---
@@ -58,14 +58,6 @@ All solutions are **automatically synchronized** from my LeetCode account using 
 ## 📈 Live LeetCode Stats
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Recursive&ext=activity)
-
----
-
-## 📌 Notes
-
-- This repository is **auto-generated and auto-updated**
-- Code structure follows LeetSync defaults
-- Solutions are intended for **learning and revision**
 
 ---
 
