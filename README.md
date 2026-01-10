@@ -1,39 +1,75 @@
 # 👨‍💻 LeetCode Journey
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
-
-### 🎯 Purpose
-This repository serves as a centralized hub for my progress on LeetCode. I use it to track my understanding of **Data Structures** and **Algorithms** (DSA) and to refine my problem-solving skills for technical interviews.
-
-### ⚙️ Automation
-All solutions in this repository are automatically synchronized from my [LeetCode Profile](https://leetcode.com/u/YOUR_USERNAME/) using the **LeetSync** browser extension.
 
 ---
 
-### 📂 Folder Structure
-Folders are named following the pattern: `[Problem Number] - [Problem Title]`.  
-*Note: GitHub sorts these lexicographically (e.g., Problem 10 comes before Problem 2).*
+## 🎯 Purpose
 
-### 🛠 Tech Stack
-- **Language:** Java / Python (Update this to yours!)
-- **Automation:** LeetSync
+This repository documents my **LeetCode problem-solving journey**.  
+It helps me strengthen my understanding of **Data Structures & Algorithms (DSA)** and prepare for **technical interviews** through consistent practice.
+
+---
+
+## ⚙️ Automation
+
+All solutions are **automatically synchronized** from my LeetCode account using the **LeetSync** browser extension.
+
+🔗 LeetCode Profile: https://leetcode.com/u/YOUR_LEETCODE_USERNAME/
+
+---
+
+## 📂 Repository Structure
+
+- Each folder represents one LeetCode problem
+- Naming format:  
+  **`[Problem Number] - [Problem Title]`**
+- Inside each folder:
+  - Solution files by language
+
+> ⚠️ Note: GitHub sorts folders lexicographically  
+> (e.g., `10` appears before `2`)
+
+---
+
+## 🛠 Tech Stack
+
+- **Primary Language:** Java  
+- **Automation Tool:** LeetSync  
 - **Platform:** LeetCode
 
 ---
 
-### 📈 Statistics
-| Category | Count |
-| :--- | :--- |
-| 🟢 Easy | 0 |
+## 📊 Problem Statistics
+
+| Difficulty | Solved |
+|-----------|--------|
+| 🟢 Easy   | 0 |
 | 🟡 Medium | 0 |
-| 🔴 Hard | 0 |
+| 🔴 Hard   | 0 |
 | **Total** | **0** |
 
 ---
 
-### 📈 Statistics
+## 📈 Live LeetCode Stats
+
 ![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Recursive&ext=activity)
+
+---
+
+## 📌 Notes
+
+- This repository is **auto-generated and auto-updated**
+- Code structure follows LeetSync defaults
+- Solutions are intended for **learning and revision**
+
+---
+
+## ⭐ Acknowledgements
+
+- [LeetCode](https://leetcode.com/)
+- LeetSync browser extension
